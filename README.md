@@ -5,8 +5,7 @@
   </a>
 
   <h1 align="center">TRABALHO 01 - Árvores B</h1>
-  <h1 align="center">Estrutura de Dados II</h1>
-  
+   
   <p align="center">
     Projeto de pesquisa, implementação e apresentação sobre Árvore B.
     <br />
@@ -22,7 +21,4 @@
       <img src="https://github.com/DilliKel/Arvore-B-Estrutura-de-Dados-II/blob/main/Apresenta%C3%A7%C3%A3o/%C3%81rvore%20B.png" alt="Apresentação B - Tree">
     </a>
   </p>
-  
-  
-  
 </p>
